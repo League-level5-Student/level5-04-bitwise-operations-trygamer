@@ -5,9 +5,9 @@ public class BitShifter {
 		// 1. Jot down the value of num in binary.
 		int num = 4;
 		int numShifted = num << 1;
-		
+		System.out.println(numShifted);
 		// 2. Print the value of numShifted, and convert that value to binary.
-		
+		if(num Shifted)
 		// 3. Compare the two binary values. Can you figure out what the << operator is for?
 		
 		// 4. Try shifting num 3 places.
